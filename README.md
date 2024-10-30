@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![jjinOwO's GitHub stats](https://github-readme-stats.vercel.app/api?username=jjinOwO&show_icons=true&theme=cobalt)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hojin020924)](https://solved.ac/hojin020924)
